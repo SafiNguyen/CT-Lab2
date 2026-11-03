@@ -1,5 +1,5 @@
 """FastAPI service for sentiment analysis with a Hugging Face model."""
-
+"""DistilBERT fine-tuned on SST-2."""
 import os
 from functools import lru_cache
 from typing import Any

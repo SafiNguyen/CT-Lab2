@@ -15,7 +15,8 @@ model. The model is loaded lazily on the first `/predict` request.
 
 ## Installation
 
-Python 3.10 or newer is recommended.
+Python 3.10 or newer is recommended. The dependency list pins
+`websockets<14` so the project also works with Python 3.10.
 
 ```powershell
 python -m venv .venv
