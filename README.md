@@ -90,4 +90,4 @@ The script calls `/health` and sends two different prediction inputs.
 
 Replace this placeholder with the public demonstration video link:
 
-`[Demo video link](https://example.com/replace-with-your-video)`
+`[Demo video link](https://youtu.be/TP9P8Jkt0pQ)`
